@@ -10,6 +10,8 @@ Python again.
 
 ### How to use or run this? 
 - First so need to have python installed 
+- Second clone the repo 
+`git clone https://github.com/kjfreidhof/Salc.git`
 - Then run the python interperter on the code like this 
 `python salc` or `python3 salc` in a command line interface 
 
